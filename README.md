@@ -5,6 +5,7 @@
 ## Education					       		
 - M.S., Molecular Sciences and Software Engineering | University of California, Berkeley (_May 2025_)	 			        		
 - B.S., Human Biology and Society | University of California, Los Angeles (_June 2023_)
+  
 ## Work Experience
 **Quality Improvement Research Team Member @ MyUCLAHealth Ambassadors (_May 2021 - June 2022_)**
 - Spearheaded a data-driven project with a cross-functional team of three, enhancing patient experience through effective project management and development cycle strategies.
