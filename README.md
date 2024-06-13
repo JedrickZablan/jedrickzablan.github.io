@@ -35,4 +35,9 @@ This repository contains the final project for CHEM 277b: Machine Algorithms, fo
 ![MAE and RMSE of Final Model](/assets/277B Results .png)
 
 ### Computer Vision Analysis For Soccer/Football Videos
-[GitHub Repository](https://github.com/JedrickZablan/computer_vision_soccer)
+[GitHub Repository](https://github.com/JedrickZablan/soccer_computer_vision)
+
+This project leverages YOLO (You Only Look Once) to develop a computer vision system for analyzing soccer games. The system is designed to provide comprehensive insights into player movements and team performance. It records team ball control, assigns players to teams using k-means clustering, and actively tracks the ball and the player with the ball. Additionally, the system tracks the camera movements, monitors the speed of the players, and calculates the total distance traveled by each player throughout the game.
+
+#### Screenshot of Output Video
+![MAE and RMSE of Final Model](/assets/soccer screenshot.png)
