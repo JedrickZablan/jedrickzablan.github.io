@@ -3,8 +3,8 @@
 #### Technical Skills: Python, C++, PyTorch, TensorFlow
 
 ## Education					       		
-- M.S., Molecular Sciences and Software Engineering | University of California, Berkeley (_May 2025_)	 			        		
-- B.S., Human Biology and Society | University of California, Los Angeles (_June 2023_)
+- M.S., Molecular Sciences and Software Engineering: University of California, Berkeley (_May 2025_)	 			        		
+- B.S., Human Biology and Society: University of California, Los Angeles (_June 2023_)
   
 ## Work Experience
 
