@@ -32,4 +32,4 @@ This repository contains the final project for CHEM 277b: Machine Algorithms, fo
 
 ![MAE and RMSE of Final Model](/assets/277B Results .png)
 
-### Project 3
+### Computer Vision Analysis For Soccer/Football Videos
