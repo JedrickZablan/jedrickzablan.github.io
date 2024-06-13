@@ -23,6 +23,8 @@
 
 This repository contains a comprehensive C++ library for Cellular Automata (CA) simulations, developed as part of the Chem 274B course. This group project showcases best practices in software engineering by designing and implementing a reusable CA library, a demonstration application using the library, and detailed analyses of the application outputs. My group successfully created an application that simulates the growth of cancer cells in tissue. The cancer starts from the center of the matrix and spreads outward to other cells using a simple model based on the Von Neumann neighborhood. This model does not account for tissue density, cell properties, or real-life cell-cell interactions. All source codes, documentation, and examples illustrating the library's capabilities are included. Additionally, the repository contains a PDF with a reflective analysis of the software development process, highlighting collaboration in cross-functional teams, algorithmic performance, and lessons learned.
 
+![Von Neumann Model Results](/assets/VN Model Graph.png)
+
 ### Project 2
 
 ### Project 3
