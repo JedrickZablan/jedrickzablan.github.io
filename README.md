@@ -7,6 +7,7 @@
 - B.S., Human Biology and Society | University of California, Los Angeles (_June 2023_)
   
 ## Work Experience
+
 **Quality Improvement Research Team Member @ MyUCLAHealth Ambassadors (_May 2021 - June 2022_)**
 - Spearheaded a data-driven project with a cross-functional team of three, enhancing patient experience through effective project management and development cycle strategies.
 - Conducted in-depth interviews and analyzed large datasets from hospital administration, physicians, and patients to develop and implement effective intervention strategies.
