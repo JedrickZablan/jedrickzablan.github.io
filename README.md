@@ -26,6 +26,11 @@ This repository contains a comprehensive C++ library for Cellular Automata (CA) 
 #### Graph of Von Neumann Model Results
 ![Von Neumann Model Results](/assets/VN Model Graph.png)
 
+### Natural Language Processing Analysis Project
+[GitHub Repository](https://github.com/JedrickZablan/data_200_final)
+
+This repository contains the different files presented for the DATA 200s final group project, focused on analyzing and predicting the outcomes of chatbot duels using a comprehensive dataset from Chatbot Arena. We employed various methods including extensive exploratory data analysis (EDA), logistic regression, linear regression, and clustering techniques to evaluate chatbot performance. The dataset, comprising 33,000 conversations, was cleaned and reduced to 25,322 for analysis. Key methodologies included pairwise fraction analysis and Elo rating systems to measure model performance, K-Means clustering, and one-hot encoding to enhance feature representation. We utilized KFold Cross-Validation to assess model robustness and experimented with PCA for dimensionality reduction, although it proved less effective. Our approach highlights the challenges of modeling chatbot interactions and the importance of advanced data preparation and feature engineering in improving model accuracy.
+
 ### Supervised ANN Model With Results
 [GitHub Repository](https://github.com/JedrickZablan/chem277b_ANN_Model/tree/main)
 
@@ -33,11 +38,6 @@ This repository contains the final project for CHEM 277b: Machine Algorithms, fo
 
 #### Graph of ANN Model RMSE and MAE
 ![MAE and RMSE of Final Model](/assets/277B Results .png)
-
-### Natural Language Processing Analysis Project
-[GitHub Repository](https://github.com/JedrickZablan/data_200_final)
-
-This repository contains the different files presented for the DATA 200s final group project, focused on analyzing and predicting the outcomes of chatbot duels using a comprehensive dataset from Chatbot Arena. We employed various methods including extensive exploratory data analysis (EDA), logistic regression, linear regression, and clustering techniques to evaluate chatbot performance. The dataset, comprising 33,000 conversations, was cleaned and reduced to 25,322 for analysis. Key methodologies included pairwise fraction analysis and Elo rating systems to measure model performance, K-Means clustering, and one-hot encoding to enhance feature representation. We utilized KFold Cross-Validation to assess model robustness and experimented with PCA for dimensionality reduction, although it proved less effective. Our approach highlights the challenges of modeling chatbot interactions and the importance of advanced data preparation and feature engineering in improving model accuracy.
 
 #### Table Ranking Top Chatbot Models After Analysis
 ![Chatbot Table](/assets/Top 10 Chatbot.png)
