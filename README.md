@@ -1,4 +1,4 @@
-![image](https://github.com/JedrickZablan/jedrickzablan.github.io/assets/139316209/2dca2e37-829e-4550-99b0-c51cb557ac41)# Molecular Sciences and Software Engineering Master's Student 
+# Molecular Sciences and Software Engineering Master's Student 
 
 #### Technical Skills: Python, C++, PyTorch, TensorFlow
 
