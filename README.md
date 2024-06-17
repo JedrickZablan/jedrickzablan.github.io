@@ -40,7 +40,7 @@ This repository contains the final project for CHEM 277b: Machine Algorithms, fo
 This repository contains the different files presented for the DATA 200s final group project, focused on analyzing and predicting the outcomes of chatbot duels using a comprehensive dataset from Chatbot Arena. We employed various methods including extensive exploratory data analysis (EDA), logistic regression, linear regression, and clustering techniques to evaluate chatbot performance. The dataset, comprising 33,000 conversations, was cleaned and reduced to 25,322 for analysis. Key methodologies included pairwise fraction analysis and Elo rating systems to measure model performance, K-Means clustering, and one-hot encoding to enhance feature representation. We utilized KFold Cross-Validation to assess model robustness and experimented with PCA for dimensionality reduction, although it proved less effective. Our approach highlights the challenges of modeling chatbot interactions and the importance of advanced data preparation and feature engineering in improving model accuracy.
 
 #### Table Ranking Top Chatbot Models After Analysis
-![Chatbot Table](/assets/Chatbot Table.png)
+![Chatbot Table](/assets/Top 10 Chatbot.png)
 
 
 ### Computer Vision Analysis For Soccer/Football Videos
