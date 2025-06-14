@@ -40,6 +40,15 @@
 
 
 ## Projects
+### MerckVision: Automated Computer Vision Analysis for Liquid-Liquid Extraction  
+📁 *GitHub repository in the process of being publicly shared by Merck*
+
+Developed a modular Python application integrating computer vision (OpenCV, YOLO), an interactive Streamlit UI, and ResNet-based classification to analyze phase boundaries in liquid-liquid extraction experiments. The tool reduced image analysis time from over 1 hour to under 1 minute per 96-sample batch, enabling researchers to visualize classifications, adjust detection settings, and export measurement data with traceability and reproducibility. The software supports multi-label phase identification, height measurements, and bulk image processing with customizable filters.
+
+- Built fully interactive UI with support for classification overrides, rag/precipitate detection, and CSV export.  
+- Designed modular pipeline with pluggable ML model architecture and scalable batch processing.  
+- Delivered production-ready documentation, tutorials, and user support materials.
+  
 ### Development of General Purpose Software Library for Cellular Automata Simulations
 [GitHub Repository](https://github.com/JedrickZablan/chem274b_final)
 
