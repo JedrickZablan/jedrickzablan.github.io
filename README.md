@@ -8,14 +8,36 @@
   
 ## Work Experience
 
-**Quality Improvement Research Team Member @ MyUCLAHealth Ambassadors (_May 2021 - June 2022_)**
-- Spearheaded a data-driven project with a cross-functional team of three, enhancing patient experience through effective project management and development cycle strategies.
-- Conducted in-depth interviews and analyzed large datasets from hospital administration, physicians, and patients to develop and implement effective intervention strategies.
+### IT Intern  
+**Arthur J. Gallagher & Co.** – San Diego, CA  
+*Oct. 2024 – Present*  
+- Implement and refine SQL-based reports to help IT analysts uncover key trends and support data-driven decisions.  
+- Design and implement an AI-powered workflow to automate Helpdesk triage, decreasing response time and enabling more efficient allocation of IT team resources.  
+- Develop interactive Power BI dashboards with responsive layouts and intuitive visual design, enabling business users to explore health insurance data efficiently.
 
-**Undergraduate Research Intern @ X. William Yang Lab at UCLA Semel Institute LLC (_January 2021 - June 2022_)**
-- Conducted neural reconstructions of transgenic mice neurons using NeuTube to explore the relationship between genetics, structure, and function in neurological disorders.
-- Leveraged quantitative imaging and data analysis to gain insights into synaptic plasticity, contributing to neuroscience discoveries and the development of machine learning algorithms.
+### Software Engineering Intern – Automation Technologies Group  
+**Merck & Co.** – Rahway, NJ  
+*Jan. 2025 – May 2025*  
+- Built MerckVision, a Python-based application combining computer vision and an interactive user interface, reducing image analysis time from 1 hour to under 1 minute per 96-sample batch.  
+- Designed intuitive UI tools for manual annotation, classification adjustment, and CSV export, improving user workflow and data traceability for end users.  
+- Engineered a hybrid detection pipeline using edge detection, peak analysis, and a ResNet model, improving phase classification and measurement accuracy by 50%.  
+- Delivered a modular, production-ready software package with user documentation, tutorials, and retraining support for long-term scalability.  
+- Acted as both Developer and Scrum Master, leading sprint planning, coordinating task tracking, and translating stakeholder needs into implementable features.
+
+### Quality Improvement Research Team Member  
+**MyUCLA Health Ambassadors - Ronald Reagan Medical Center** – Los Angeles, CA  
+*May 2021 – Jun. 2022*  
+- Co-led a data-driven evaluation of the hospital’s patient portal, analyzing user interactions and mapping user flows to identify usability gaps and interface improvements.  
+- Conducted in-depth interviews and analyzed large datasets from hospital administration, physicians, and patients to develop and implement effective intervention strategies.  
+- Presented intervention project at UCLA Undergraduate Research Week for research panel and hospital stakeholders.
+
+### Undergraduate Research Intern  
+**X. William Yang Lab – UCLA Semel Institute** – Los Angeles, CA  
+*Jan. 2021 – Jun. 2022*  
+- Conducted neural reconstructions of transgenic mice neurons using NeuTube to explore the relationship between genetics, structure, and function in neurological disorders.  
+- Leveraged quantitative imaging and data analysis to gain insights into synaptic plasticity, contributing to neuroscience discoveries and the development of machine learning algorithms.  
 - Presented complex model findings to academic audiences, showcasing strong oral and written communication skills.
+
 
 ## Projects
 ### Development of General Purpose Software Library for Cellular Automata Simulations
