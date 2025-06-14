@@ -2,7 +2,7 @@ title: Jedrick Regala Zablan
 logo: /assets/headshot.jpg
 description: I am a UC Berkeley MSSE graduate actively seeking to leverage my skills in software development, machine learning and data analysis.
 #show_download true 
-theme: jekyll-theme-minimal
+theme: .nojekyll
 minima:
   social_links:
     github: https://github.com/JedrickZablan
