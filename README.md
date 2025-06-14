@@ -1,3 +1,7 @@
+---
+title: Jedrick Regala Zablan
+---
+
 # Molecular Sciences and Software Engineering Master's Student 
 
 #### Technical Skills: Python, C++, PyTorch, TensorFlow
